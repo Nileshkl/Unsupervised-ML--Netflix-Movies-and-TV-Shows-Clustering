@@ -32,6 +32,6 @@ The comprehensive analysis and recommendation system developed in this project a
 
 ## Conclusion
 
-By conducting this comprehensive analysis of the Netflix dataset and developing a content-based recommendation system, the project aims to enhance user satisfaction and reduce subscriber churn for Netflix. The clustering of content allows for improved grouping and organization, while the recommender system provides personalized recommendations based on user preferences. It is expected that these efforts will lead to higher user retention rates and ultimately benefit Netflix in maintaining its position as a leading streaming entertainment platform.
+Through the in-depth analysis of the Netflix dataset and the creation of a content-based recommendation system, this project strives to boost user satisfaction and minimize subscriber turnover for Netflix. The content clustering enhances organization, and the personalized recommendations are geared toward user preferences. The anticipated outcome is an increase in user retention rates, ultimately strengthening Netflix's position as a top streaming entertainment platform.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nileshkumar-lavand/)
