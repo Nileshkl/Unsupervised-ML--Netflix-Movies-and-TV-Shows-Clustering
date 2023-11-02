@@ -1,12 +1,28 @@
-# Unsupervised-ML--Netflix-Movies-and-TV-Shows-Clustering
 
-# Netflix Dataset Analysis and Recommendation System
-
+# :star: Netflix Movies & TV Shows Clustering :star:
+## :star: Unsupervised ML Model:star:
 ![Netflix Logo](https://github.com/Nileshkl/Unsupervised-ML--Netflix-Movies-and-TV-Shows-Clustering/blob/c7ca31f07a8c84abf8277d572a238b018fd95e0e/netflix-intro-netflix.gif)
 
 This project aims to analyze the Netflix Dataset of movies and TV shows until 2019, obtained from the third-party search engine Flixable. The primary objective is to group the content into relevant clusters using NLP techniques to enhance the user experience through a recommendation system. This system will help mitigate subscriber churn for Netflix, which currently boasts over 220 million subscribers.
 
 Moreover, this project seeks to uncover valuable insights and trends in the streaming entertainment industry by analyzing the dataset.
+
+This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Fixable which is a third-party Netflix search engine. In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset. Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
+
+This dataset contains information about movies and TV shows available on Netflix. It includes the following columns:
+
+- **show_id**: {data['show_id']}
+- **type**: {data['type']}
+- **title**: {data['title']}
+- **director**: {data['director']}
+- **cast**: {data['cast']}
+- **country**: {data['country']}
+- **date_added**: {data['date_added']}
+- **release_year**: {data['release_year']}
+- **rating**: {data['rating']}
+- **duration**: {data['duration']}
+- **listed_in**: {data['listed_in']}
+- **description**: {data['description']}
 
 ## Project Overview
 
