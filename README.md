@@ -1,6 +1,6 @@
 
 # :star: Netflix Movies & TV Shows Clustering :star:
-## :star: Unsupervised ML Model:star:
+## :star: Unsupervised ML Capstone Project:star:
 ![Netflix Logo](https://github.com/Nileshkl/Unsupervised-ML--Netflix-Movies-and-TV-Shows-Clustering/blob/c7ca31f07a8c84abf8277d572a238b018fd95e0e/netflix-intro-netflix.gif)
 
 This project aims to analyze the Netflix Dataset of movies and TV shows until 2019, obtained from the third-party search engine Flixable. The primary objective is to group the content into relevant clusters using NLP techniques to enhance the user experience through a recommendation system. This system will help mitigate subscriber churn for Netflix, which currently boasts over 220 million subscribers.
